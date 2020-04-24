@@ -12,9 +12,19 @@ if ($a) {
 	$header = array(
 		'Content-Type": "application/x-www-form-urlencoded',
 	);
-	$a = login('https://netflix.raditya.website','code=asdasdsada',$header);
+	
+$a = login('https://netflix.raditya.website','code=SGB-36bf0ea7b1',$header);
 }
-print_r($a);
+print_r($a)
+//if (inStr($a, 'ok')) {
+	// echo "LIVE";
+ // }
+ // else{
+  // echo "DIE";
 
-
+ // }
+			
+//SGB CODE TIDAK VALID
+//Server Penuh , Harap Menunggu
+//SGB-36bf0ea7b1
 ?>
